@@ -10,5 +10,7 @@ Filter out any items where "name" is blank or null.
 The final result should be displayed to the user in an easy-to-read list.
 
 Language: Kotlin
+
 Libraries: ViewModel, LiveData, Navigation Component, Retrofit
+
 Architecture: MVVM
